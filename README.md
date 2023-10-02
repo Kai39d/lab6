@@ -1,2 +1,2 @@
 # lab6
-python DO Something
+group members: Josh Frank, 
